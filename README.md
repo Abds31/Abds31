@@ -2,7 +2,7 @@
 - 👀 I’m interested in working as data  Scientist in the world of data.
 - 🌱 I’m currently pursuing my masters in Data Analytics Major  Fall Aug 2021- May 2023.
 - 💞️ I’m looking to collaborate on opensouce tools related to data science and implement them.
-- 📫 How to reach me @linkedin 
+- 📫 How to reach me @linkedin https://www.linkedin.com/in/abhilash-annamraddi-80451b172/
 
 <!---
 Abds31/Abds31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
